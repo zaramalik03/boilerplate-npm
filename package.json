@@ -2,7 +2,7 @@
 	"author": "Zara Malik",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome ",
-	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"keywords": [ "glitch", "github", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
